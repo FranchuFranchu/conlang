@@ -39,9 +39,11 @@ The first phoneme in a word indicates in which direction it modifies, that is, w
 If the first phoneme is **weak**, then the word it modifies is before it (at the left).
 If the first phoneme is **strong**, then the word it modifies is after it (at the right).
 
+The strong versions of voiced plosives are voiceless plosives, the strong versions of fricatives are affricates, and the strong versions of laterals are trills.
+
 The direction a word modifies can be changed by strengthening or weakening the first phoneme.
 
-There are no minimal pairs of words that only differ by the strength of the first phoneme. The strength of the first phoneme does not determine its meaning.
+There are no minimal pairs of words that only differ by the strength of the first phoneme. The strength of the first phoneme of a word does not determine its meaning.
 
 Example:
 - _tan_ means "large"
@@ -75,12 +77,25 @@ Example:
 
 The only way to introduce relative clauses (or any sort of verbal phrase inside another one) is with _i_ and _e_. There are no special relative prounouns.
 
+### Questions
+
+You can replace the unknown data you want to ask about with _shei_ to make a wh-question.
+
+<dl>
+<dt>si fie shei?<dd>what did you do? (_lit._ cause you what?)
+<dt>sha fie il shei?<dd>how are yuo? (_lit._ how do you exist?)
+</dl>
+
+### Yes/No questions
+
+
+
 ## Examples
 
 First, some vocabulary
 
 <dl>
-	<dt>'sa'<dd>to be
+<dt>'sa'<dd>to be
   <dt>'se'<dd>to change
   <dt>'sha'<dd>to exist
   <dt>'fa'<dd>this
@@ -101,10 +116,27 @@ First, some vocabulary
 </dl>
 
 Here are some translations
-**tes ei fia es go fe dai**: "I go to that place"
-**le ei fia es i sa pan is go fe**: You say that that place is good (here, VOS word order is used in the last clause).
-**tes ei fia es go i le ei fia es sa fe pan**: I go to the place that you say it is good.
+
+<dl>
+<dt>tes ei fia es go fe dai<dd>"I go to that place"
+<dt>le ei fia es i sa pan is go fe<dd>You say that that place is good (here, VOS word order is used in the last clause).
+<dt>tes ei fia es go i le ei fia es sa fe pan<dd>I go to the place that you say it is good.
+</dl>
 
 ## Compound words
 
-Compound words can be formed by 
+Compound words can be formed by concatenating two words. In a compound word, one word takes the role of "main" word and the other one is the "detail". Additionally, it can be either a noun-noun compound, or a verb-noun compound. There are subtle differences in word compounding to cover these cases.
+
+If the last word is the main word, then it is strengthened. Otherwise, it is weakened.
+If the main word is first, then it is a noun-noun compound. Otherwise, it is a verb-noun or adjective-noun compound, where the noun is the detail wrod.
+
+So, for example, if _fo_ means "person" and _lito_ means "rock", then:
+<dl>
+<dt>fo-lito<dd>man-rock, man of rock. could mean a person that lives in a rock. a dwarf?
+<dt>fo-rito<dd>rocking-man. could mean "miner", depending on the exact details of the meaning of "rocking".
+<dt>lito-fo<dd>rock-man, rock of man. could mean "statue"
+<dt>lito-pfo<dd>manning-rock. could be a rock that makes inanimate things animate.
+</dl>
+
+
+
