@@ -54,14 +54,16 @@ The language is, "by default", head initial. However, the fact that the directio
 
 ## Grammar
 
-In Falakas, words have no fixed part of speech. The exact meaning of each word depends on context.
+In Falakas, words have no fixed part of speech. The exact meaning and role of a word depends on context it is in.
 
-Frequently, the word order is VSO but you can change this, most frequently to SVO or SOV. Speakers may adjust the word order to place the most important phrase at the beginning of the sentence.
+The default word order is SVO. However, by using grammatical particles, the phrases can be reordered freely as you wish. The V tends to "stick" to the O. A speaker will usually reorder the words to get the topic at the front of the sentence.
+
+The language is ergative/absolutive.
 
 Syllables with no onset (without a consonant) have special grammatical roles.
 - "_u_" opens a noun phrase as a subclause and "_o_" closes it. You can use just one if the result can still be understood
 - "_i_" opens a verb phrase  as a subclause, frequently as a relative clause and "_e_" closes it. You can use just one if the result can still be understood
-- "_es_" tells us that the word it modifies is the actor of the action. It is similar to an eergative case marker.
+- "_es_" tells us that the word it modifies is the actor of the action. It is similar to an ergative case marker.
 - "_en_" tells us that the word it modifies is the one that is affected by the action . It is similar to an absolutive case marker.
 - "_el_" tells us that the word it modifies is a detail to the action, not covered by the other grammar words. This can be combined with other words to specify location, destination, purpose, etc.
 - "_ei_" or "_eu_" tells us that the word it modifies is the verb of the action.
@@ -82,8 +84,8 @@ The only way to introduce relative clauses (or any sort of verbal phrase inside 
 You can replace the unknown data you want to ask about with _shei_ to make a wh-question.
 
 <dl>
-<dt>si fie shei?<dd>what did you do? (_lit._ cause you what?)
-<dt>sha fie il shei?<dd>how are yuo? (_lit._ how do you exist?)
+<dt>pfie tshei si?<dd>what did you do? (_lit._ cause you what?)
+<dt>pfie sha il shei?<dd>how are yuo? (_lit._ how do you exist?)
 </dl>
 
 ### Yes/No questions
@@ -95,7 +97,7 @@ You can replace the unknown data you want to ask about with _shei_ to make a wh-
 First, some vocabulary
 
 <dl>
-<dt>'sa'<dd>to be
+  <dt>'sa'<dd>to be
   <dt>'se'<dd>to change
   <dt>'sha'<dd>to exist
   <dt>'fa'<dd>this
@@ -118,9 +120,9 @@ First, some vocabulary
 Here are some translations
 
 <dl>
-<dt>tes ei fia es go fe dai<dd>"I go to that place"
-<dt>le ei fia es i sa pan is go fe<dd>You say that that place is good (here, VOS word order is used in the last clause).
-<dt>tes ei fia es go i le ei fia es sa fe pan<dd>I go to the place that you say it is good.
+<dt>pfia tes ui go fe dai<dd>"I go to that place"
+<dt>pfia le ui i sa pan is go fe<dd>You say that that place is good (here, VOS word order is used in the last clause).
+<dt>pfia tes ui go i le ei fia es sa fe pan<dd>I go to the place that you say it is good.
 </dl>
 
 ## Compound words
