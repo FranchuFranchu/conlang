@@ -6,17 +6,17 @@ Falakas is a constructed language with the goal of being easy and intuitive to l
 
 These are the consonants the language has:
 
-![image](https://github.com/FranchuFranchu/conlang/assets/38839219/4ff4d953-b023-44bd-a8cd-9082e7899a17)
+![image](https://raw.githubusercontent.com/FranchuFranchu/conlang/main/assets/consonants.png)
 
 The strong/weak distinction is necessary for inflection in a way that will be explained later.
 
 However, a speaker can still speak the language by only pronouncing these consonants.
 
-![image](https://github.com/FranchuFranchu/conlang/assets/38839219/97eaa845-f2e1-4e2e-b195-b07dfd1bd624)
+![image](https://raw.githubusercontent.com/FranchuFranchu/conlang/main/assets/consonants_mini.png)
 
 These are the vowels the language has.
 
-![image](https://github.com/FranchuFranchu/conlang/assets/38839219/5dc36188-db26-49ea-ab69-7cd1c3fafcc3)
+![image](https://raw.githubusercontent.com/FranchuFranchu/conlang/main/assets/vowels.png)
 
 The closed vowels can be pronounced as approximants in some situations.
 
