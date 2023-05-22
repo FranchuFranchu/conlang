@@ -91,6 +91,54 @@ You can replace the unknown data you want to ask about with _shei_ to make a wh-
 ### Yes/No questions
 
 
+## Vocabulary
+### Monosyllabic roots
+
+Some roots are one syllable long. These are "core" grammar words or other important concepts. They are decided _a priori_, with a system that associates a broad semantical meaning to each phoneme in the language. For reference, here is the list:
+
+* /m/	Property
+* /p/	Thought, Together, because the lips are put together
+* /t/	Position, Movement, because the tongue moves and points at something
+* /k/	Thing, isolate thing, location
+* /f/	This, determinate
+* /sh/ existence
+* /s/	event, identity.
+* /x/	moment, relationship
+* /l/	speech, communication
+* /a/ achieved state
+* /e/ process, 
+* /i/ activity, event
+* /o/ A concept or variable that comes into play.
+* /u/ false, negative, possibility
+
+In coda position, they have slightly different meanings
+* /n/ NASAL: An extensive property
+* /l/ LIQUID: An intensive property or detail
+* /s/ FRICATIVE: An action 
+* /i/ FRONT: Active
+* /u/ BACK: A possibility or power
+
+This means that there is a semantic relationship between phonologically similar roots. (/sei/: To cause, /sai/: To be a consequence)
+
+### Bisyllabic roots
+
+Some roots are two syllables long. These are borrowed from Earth's languages, and usually refer to things from "the real world". It is better to loan morphemes with meanings that are easily recognizable in most of the world (/pa.pa/, /ma.ma/)
+
+### Compound words
+
+Compound words can be formed by concatenating two words. In a compound word, one word takes the role of "main" word and the other one is the "detail". Additionally, it can be either a noun-noun compound, or a verb-noun compound. There are subtle differences in word compounding to cover these cases.
+
+If the last word is the main word, then it is strengthened. Otherwise, it is weakened.
+If the main word is first, then it is a noun-noun compound. Otherwise, it is a verb-noun or adjective-noun compound, where the noun is the detail wrod.
+
+So, for example, if _fo_ means "person" and _lito_ means "rock", then:
+<dl>
+<dt>fo-lito<dd>man-rock, man of rock. could mean a person that lives in a rock. a dwarf?
+<dt>fo-rito<dd>rocking-man. could mean "miner", depending on the exact details of the meaning of "rocking".
+<dt>lito-fo<dd>rock-man, rock of man. could mean "statue"
+<dt>lito-pfo<dd>manning-rock. could be a rock that makes inanimate things animate.
+</dl>
+
 
 ## Examples
 
@@ -123,21 +171,6 @@ Here are some translations
 <dt>pfia tes ui go fe dai<dd>"I go to that place"
 <dt>pfia le ui i sa pan is go fe<dd>You say that that place is good (here, VOS word order is used in the last clause).
 <dt>pfia tes ui go i le ei fia es sa fe pan<dd>I go to the place that you say it is good.
-</dl>
-
-## Compound words
-
-Compound words can be formed by concatenating two words. In a compound word, one word takes the role of "main" word and the other one is the "detail". Additionally, it can be either a noun-noun compound, or a verb-noun compound. There are subtle differences in word compounding to cover these cases.
-
-If the last word is the main word, then it is strengthened. Otherwise, it is weakened.
-If the main word is first, then it is a noun-noun compound. Otherwise, it is a verb-noun or adjective-noun compound, where the noun is the detail wrod.
-
-So, for example, if _fo_ means "person" and _lito_ means "rock", then:
-<dl>
-<dt>fo-lito<dd>man-rock, man of rock. could mean a person that lives in a rock. a dwarf?
-<dt>fo-rito<dd>rocking-man. could mean "miner", depending on the exact details of the meaning of "rocking".
-<dt>lito-fo<dd>rock-man, rock of man. could mean "statue"
-<dt>lito-pfo<dd>manning-rock. could be a rock that makes inanimate things animate.
 </dl>
 
 
